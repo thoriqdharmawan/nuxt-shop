@@ -5,6 +5,11 @@ This is a simple shop application built using **Nuxt 3**. It includes the follow
 - 🛒 **Product Listing**: View a list of available products.
 - 📄 **Product Detail**: View detailed information about a specific product.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ce6ffbdb-8439-45f9-98f6-e490318ce668" alt="screenshot2" width="45%" style="margin-right: 12px;"  />
+  <img src="https://github.com/user-attachments/assets/0beecea4-2d9f-4c43-a643-a8ad94241103" alt="screenshot1" width="45%" />
+</p>
+
 ## 🌟 Features
 
 - **Nuxt 3** for modern web development
