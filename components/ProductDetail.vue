@@ -1,10 +1,10 @@
 <template>
   <div class="card">
-    <div class="grid grid-cols-2 gap-10">
-      <div class="p-7">
-        <img :src="`${product.image}`" class="mx-auto my-7" />
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-1 lg:gap-10">
+      <div class="p-2 lg:p-7">
+        <img :src="`${product.image}`" class="mx-auto lg:my-7 w-full" />
       </div>
-      <div class="p-7">
+      <div class="p-2 lg:p-7">
         <h2 class="text-4xl my-7">{{ product.title }}</h2>
         <p class="text-xl my-7">Price - ${{ product.price }}</p>
         <h3 class="font-bold border-b-2 mb-4 pb-2">Product description:</h3>
